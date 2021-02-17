@@ -390,29 +390,34 @@ Scattering by Aerial and Ground Radar Objects </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(160).pdf" style="text-decoration:none;">Precision Agriculture Technology for Crop Farming</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(161).pdf" style="text-decoration:none;">A Simple Bayesian Modelling Approach to Event Extraction from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(161).pdf" style="text-decoration:none;">Soil Erosion and Carbon Dynamics</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(162).pdf" style="text-decoration:none;">Bilingual Event Extraction: a Case Study on Trigger Type Determination</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(163).pdf" style="text-decoration:none;">Real-Time Detection, Tracking, and Monitoring of Automatically Discovered Events in Social Media</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(162).pdf" style="text-decoration:none;">Advances in Food and Non-Food Biomass Production, Processing and Use in Sub-Saharan Africa</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(163).pdf" style="text-decoration:none;">Assessment and Governance of Sustainable Soil Management</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(164).pdf" style="text-decoration:none;">Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(164).pdf" style="text-decoration:none;">Conference Theme: Strategic Positioning</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(165).pdf" style="text-decoration:none;">Generative Event Schema Induction with Entity Disambiguation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(165).pdf" style="text-decoration:none;">Biodiversity of
+Vegetable Crops: A Living Heritage</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(166).pdf" style="text-decoration:none;">Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(166).pdf" style="text-decoration:none;">Changing Land Use,
+Changing Livelihoods</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(167).pdf" style="text-decoration:none;">Event Detection and Domain Adaptation with Convolutional Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(167).pdf" style="text-decoration:none;">Development of high-temperature superconductor cables for high direct current applications</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(168).pdf" style="text-decoration:none;">Seed-Based Event Trigger Labeling:
-How far can event descriptions get us?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(169).pdf" style="text-decoration:none;">Disease Event Detection based on Deep Modality Analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(170).pdf" style="text-decoration:none;">A Domain-independent Rule-based Framework for Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(171).pdf" style="text-decoration:none;">Storybase: Towards Building a Knowledge Base for News Events</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(172).pdf" style="text-decoration:none;">Liberal Event Extraction and Event Schema Induction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(173).pdf" style="text-decoration:none;">Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(168).pdf" style="text-decoration:none;">Livelihood and Landscape Change in Africa: Future Trajectories for Improved Well-Being under a Changing Climate</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(169).pdf" style="text-decoration:none;">Sustainable
+Cropping Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(170).pdf" style="text-decoration:none;">Guide to the naturalized and invasive plants of eastern Africa</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(171).pdf" style="text-decoration:none;">Advanced Testing
+and Characterization of Bituminous Materials</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(172).pdf" style="text-decoration:none;">Handbook of
+Optical and Laser Scanning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(173).pdf" style="text-decoration:none;">BioMEMS: Science and Engineering Perspectives</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(174).pdf" style="text-decoration:none;">RBPB: Regularization-Based Pattern Balancing Method for Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(175).pdf" style="text-decoration:none;">Leveraging FrameNet to Improve Automatic Event Detection</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(176).pdf" style="text-decoration:none;">Temporal Anchoring of Events for the TimeBank Corpus</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(174).pdf" style="text-decoration:none;">Historical Agriculture and Soil Erosion in the Upper Mississippi Valley Hill Country</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(175).pdf" style="text-decoration:none;">Biomass Chars: Elaboration,
+Characterization and Applications II</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(176).pdf" style="text-decoration:none;">Innovation Issues in Water, Agriculture and Food</a></li>  
    
 </ul>
