@@ -81,7 +81,7 @@ Impact on Soil Properties and Sustainable Resource Management</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(33).pdf" style="text-decoration:none;">Improving Potassium Recommendations for Agricultural Crops</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(34).pdf" style="text-decoration:none;">Manage Insects on Your Farm: A Guide to Ecological Strategies</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(35).pdf" style="text-decoration:none;">Wi-Fi Enabled Healthcare</a></li> 
 
@@ -129,7 +129,7 @@ for Product Service Design: The Manutelligence Project</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(56).pdf" style="text-decoration:none;">Sustainable
 Rice Straw Management </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(57).pdf" style="text-decoration:none;">The New American Farmer: Profiles of Agricultural Innovation</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(58).pdf" style="text-decoration:none;">Safety for Particle
 Accelerators</a></li>
@@ -381,7 +381,8 @@ Guide to the naturalized and invasive plants of Laikipia</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(155).pdf" style="text-decoration:none;">Bacterial NanoCellulose: A Sophisticated Multifunctional Material</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(156).pdf" style="text-decoration:none;">Advanced Location-Based Technologies and Services</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(157).pdf" style="text-decoration:none;">Modelling Events through Memory-based, Open-IE Patterns for Abstractive Summarization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(157).pdf" style="text-decoration:none;">Building a
+Sustainable Business: A Guide to Developing a Business Plan for Farms and Rural Businesses</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(158).pdf" style="text-decoration:none;">Managing Emotion in Design Innovation</a></li>
    
  
@@ -419,5 +420,36 @@ Optical and Laser Scanning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(175).pdf" style="text-decoration:none;">Biomass Chars: Elaboration,
 Characterization and Applications II</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(176).pdf" style="text-decoration:none;">Innovation Issues in Water, Agriculture and Food</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(177).pdf" style="text-decoration:none;">What is Sustainable Agriculture?</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(178).pdf" style="text-decoration:none;">How to
+Direct Market Your Beef</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(179).pdf" style="text-decoration:none;">Profitable Pork:
+Strategies for Hog Producers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(180).pdf" style="text-decoration:none;">Profitable Poultry:
+Raising Birds on Pasture</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(181).pdf" style="text-decoration:none;">How to Conduct Research
+on Your Farm or Ranch</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(182).pdf" style="text-decoration:none;">A Whole-Farm Approach to
+Managing Pests </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(183).pdf" style="text-decoration:none;">Steel in the Field: A Farmer's Guide to Weed-management Tools</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(184).pdf" style="text-decoration:none;">Smart Water Use on Your Farm or Ranch</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(185).pdf" style="text-decoration:none;">Building Soils for Better Crops: Sustainable Soil Management</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(186).pdf" style="text-decoration:none;">Wet rice cultivation in Indonesia</a></li>
+                 
+   
+   
+   
+   
+   
+   
+   
+   
    
 </ul>
