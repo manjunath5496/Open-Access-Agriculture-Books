@@ -97,47 +97,62 @@ on Mathematics, Quantum Theory, and Cryptography Proceedings of MQC 2019</a></li
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(41).pdf" style="text-decoration:none;">Organic Waste Composting through Nexus Thinking</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(42).pdf" style="text-decoration:none;">Semiconductor Packaging: Materials Interaction and Reliability</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(43).pdf" style="text-decoration:none;">Enhancing Future Skills
+and Entrepreneurship: 3rd Indo-German Conference on Sustainability in Engineering</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(44).pdf" style="text-decoration:none;">Advances in Fibre
+Production Science in South American Camelids and other Fibre Animals</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(45).pdf" style="text-decoration:none;">Land Use and Food Security
+in 2050: A Narrow Road </a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(46).pdf" style="text-decoration:none;">Technological and Institutional Innovations for Marginalized Smallholders in Agricultural Development</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(47).pdf" style="text-decoration:none;">Building Agricultural Extension Capacity in Post-Conflict Settings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(48).pdf" style="text-decoration:none;">Guideline for Salinity Assessment, Mitigation and Adaptation Using Nuclear and Related Techniques</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(49).pdf" style="text-decoration:none;">Innovative Models
+for Sustainable Development in Emerging African Countries</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(50).pdf" style="text-decoration:none;">Organic Food Systems: 
+Meeting the Needs of Southern Africa</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(51).pdf" style="text-decoration:none;">eIoT: 
+The Development of the Energy Internet of Things in Energy Infrastructure</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(52).pdf" style="text-decoration:none;">Disposable Bioprocessing Systems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(53).pdf" style="text-decoration:none;">Dangerous Science:
+Science Policy and Risk Analysis for Scientists and Engineers</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(54).pdf" style="text-decoration:none;">The Tools of Owatatsumi: Japan's Ocean Surveillance and Coastal Defence Capabilities</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(55).pdf" style="text-decoration:none;">Models, Methods and Tools
+for Product Service Design: The Manutelligence Project</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(56).pdf" style="text-decoration:none;">Sustainable
+Rice Straw Management </a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(58).pdf" style="text-decoration:none;">Safety for Particle
+Accelerators</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(59).pdf" style="text-decoration:none;">Hydrological Design
+of Multipurpose Micro-catchment Rainwater Management</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(60).pdf" style="text-decoration:none;">When Can Oil
+Economies Be Deemed Sustainable? </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(61).pdf" style="text-decoration:none;"> The Geopolitics
+of the Global Energy Transition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(62).pdf" style="text-decoration:none;">European Guide to Power System Testing</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(63).pdf" style="text-decoration:none;">Plant Nutrient
+Dynamics in Stressful Environments</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(64).pdf" style="text-decoration:none;">Transforming Food
+Systems for a Rising India</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(65).pdf" style="text-decoration:none;">Agriculture for Improved Nutrition: Seizing the Momentum </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(66).pdf" style="text-decoration:none;">Agroecological Transitions: From Theory to Practice in Local Participatory Design</a></li> 
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Agriculture-Books/blob/master/ag(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
 
